@@ -1,0 +1,32 @@
+input{
+    display: block;
+}
+
+.main{
+    display: flex;
+    padding: 2.5rem;
+}
+body{
+    background-image: url(imagee.png);
+    color: aliceblue;
+}
+.flex-2{
+    padding: 1rem;
+    border: 0.15rem solid rgb(44, 48, 44);
+    margin-right: 15rem;
+    /* background-color: rgb(95, 95, 95); */
+}
+.flex-2 h2{
+    text-align: center;
+}
+.flex-2 input{
+    padding: 0.5rem;
+    margin: 1em;
+}
+.main button{
+    padding: .5rem;
+    background-color: yellow;
+}
+header h1{
+    text-align: center;
+}
